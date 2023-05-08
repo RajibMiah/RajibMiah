@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajib</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajibMiah" alt="rajibmiah" /> </p>
 
-- 🌱 I’m currently working on **Django, React js and RDBMS**
+- 🌱 I’m currently working on ** React.js , Next.js , express.js , TypeScript and DBMS**
 
 - 📫 How to reach me **ahmedrajib942@gmail.com**
 
