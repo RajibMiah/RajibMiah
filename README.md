@@ -21,12 +21,12 @@
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="30" /></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="" height="30" width="30" /></a> -->
 </p>
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoy09&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mrinmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinmoy09&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-
+ -->
 
 <h2> Skills </h2>
 
