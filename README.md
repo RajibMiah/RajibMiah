@@ -16,31 +16,6 @@ Hi, I'm **Rajib Miah**, a passionate open source contibutor currently pursuing m
 
 ---
 
-## 🎓 Education
-
-- **Master's Program**:  
-   - Network and System Security  
-   - Image Processing and Computer Vision  
-   - Introduction to Neural Signal Analysis  
-   - Introduction to Computational Thinking and Programming for CFD  
-   
-- **Bachelor’s Program**:  
-Here are some of the key courses I completed during my Bachelor's that laid the foundation for my career in software development:
-
-- Introduction to Programming.
-- Data Structures and Algorithms.
-- Object-Oriented Programming (OOP).
-- Database Management Systems.
-- Web Development.
-- Mobile Application Development.
-- Software Engineering.
-- Computer Networks.
-- Operating Systems.
-- Artificial Intelligence.
-
----
-
-
 ## 💻 Digital Skills
 
 - **Programming Languages**:  
