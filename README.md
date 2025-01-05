@@ -9,7 +9,6 @@ Hi, I'm **Rajib Miah**, a passionate open source contibutor currently pursuing m
 - **Name**: Rajib Miah
 - **Nationality**: Bangladeshi
 - **Current Location**: Cottbus, Germany
-- **Current Role**: Master's Student in **AI**
 - **Academic Background**:
   - **Master's Degree** in **Artificial Intelligence** at **Brandenburg University of Technology (BTU)**, Germany
   - **Bachelor's Degree** in **Computer Science and Engineering** from **Metropolitan University Bangladesh**
@@ -85,7 +84,6 @@ You can reach me via:
 ## 🌟 Notable Achievements
 
 - **Winner** of the regional **NASA Space App Challenge** hackathon in 2019.
-- Committed to contributing to **Bangladesh 2.0** for national progress and development.
 - Applying for AI-related roles in **Software Development** by 2026.
   
 ---
@@ -93,7 +91,7 @@ You can reach me via:
 ## 📝 Ongoing Projects
 
 Currently working on the following:
-- **Open Course Contributor** at **Reality AI Lab**: Contributing to open-source AI research and course materials, helping to expand educational resources and practical applications in the field of AI.
+- **Open Course Contributor** at **Reality AI Lab**: Contributing to open-source project named Marvel AI. A versatile AI Teaching Assistant designed to transform education by supporting educators in creating high-quality lesson plans, assignments, and learning resources.
 
 ---
 
