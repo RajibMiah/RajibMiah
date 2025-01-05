@@ -94,7 +94,7 @@ Here are some of the key courses I completed during my Bachelor's that laid the 
 You can reach me via:
 - **Email**: ahmedrajib942@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mrrajibmiah/)
-
+- **Leetcode**:[leetcode profile](https://leetcode.com/u/md_rajib)
 ---
 
 ## 🌟 Notable Achievements
