@@ -16,28 +16,37 @@ Hi, I'm **Rajib Miah**, a passionate open source contibutor currently pursuing m
 
 ---
 
-## 💻 Digital Skills
+## 🛠️ Technical Skills
 
-- **Programming Languages**:  
-  - **JavaScript**, **TypeScript**, **C++** , **Python**
-  
-- **Frameworks & Libraries**:  
-  - **React.js** (with **Next.js**, **Redux**, **styled-components**), **Node.js**, **Flutter**
+### Programming Languages:
+- **Python**
+- **TypeScript**, **JavaScript**, **C++**
+- **SQL**
 
-- **Database Management**:  
-  - Database design and management
+### Frameworks & Libraries:
+- **React.js** (including **Next.js**, **styled-components**, **Redux**)
+- **Node.js**, **Express.js**
+- **Flutter**
 
-- **Web Development**:  
-  - **HTML**, **CSS**, **Web API**
+### Tools & Technologies:
+- **Git**, **GitHub**
+- **Docker**
+- **GraphQL**
 
-- **Game Development**:  
-  - **Unity GameEngine**
+### Databases:
+- **Database Management Systems (DBMS)**
 
-- **Version Control**:  
-  - **Git**, **GitHub**
+### Development Skills:
+- **API Development**
+- **Full-Stack Development**
+- **User Interface Design**
 
-- **Other Tools**:  
-  - **MS Office Tools**
+### Problem-Solving:
+- **Data Structures** and **Algorithms**
+
+### Web Technologies:
+- **HTML5**, **CSS**
+
 
 
 ---
@@ -46,6 +55,7 @@ Hi, I'm **Rajib Miah**, a passionate open source contibutor currently pursuing m
 
 - **English** (Fluent)
 - **Bangla** (Native)
+- **German** (Basic)
 
 ---
 
@@ -59,7 +69,7 @@ Hi, I'm **Rajib Miah**, a passionate open source contibutor currently pursuing m
 
 ## 🧳 Travel and Cultural Interests
 
-- Exploring the **German culture** and engaging with local and corporate communities in **Berlin** and **German**.
+- Exploring the **German culture** and engaging with local and corporate communities in **Berlin**.
 - Interested in understanding the global environment for tech innovation and development.
 
 ---
