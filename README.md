@@ -11,8 +11,8 @@ Hi, I'm **Rajib Miah**, a passionate open source contibutor currently pursuing m
 - **Current Location**: Cottbus, Germany
 - **Current Role**: Master's Student in **AI**
 - **Academic Background**:
-  - **Master's Degree** in **Artificial Intelligence** at **Brandenburg University of Technology (BTU)**, Germany (Starting Summer 2024)
-  - **Bachelor's Degree** in **Computer Science and Engineering** from **Metropolitan University Sylhet, Bangladesh**
+  - **Master's Degree** in **Artificial Intelligence** at **Brandenburg University of Technology (BTU)**, Germany
+  - **Bachelor's Degree** in **Computer Science and Engineering** from **Metropolitan University Bangladesh**
 
 ---
 
