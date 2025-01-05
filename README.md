@@ -27,17 +27,16 @@ Hi, I'm **Rajib Miah**, a passionate open source contibutor currently pursuing m
 - **Bachelor’s Program**:  
 Here are some of the key courses I completed during my Bachelor's that laid the foundation for my career in software development:
 
-- **Introduction to Programming**: Focused on basic programming concepts, algorithms, and problem-solving techniques.
-- **Data Structures and Algorithms**: Covered essential data structures and algorithms, foundational for efficient software development.
-- **Object-Oriented Programming (OOP)**: Learned the principles of OOP, including inheritance, polymorphism, and encapsulation using Java and C++.
-- **Database Management Systems**: Gained experience with relational databases, SQL, and database design.
-- **Web Development**: Covered both front-end and back-end web technologies like HTML, CSS, JavaScript, and frameworks like React.
-- **Mobile Application Development**: Focused on developing mobile apps using tools like Flutter.
-- **Software Engineering**: Taught software development life cycles (SDLC) and project management methodologies such as Agile.
-- **Computer Networks**: Covered networking principles and protocols like TCP/IP and security.
-- **Operating Systems**: Explored the inner workings of operating systems, memory management, and system processes.
-- **Artificial Intelligence**: Gained foundational knowledge in AI, including machine learning and neural networks.
-- **Cybersecurity**: Introduced to fundamental concepts in securing computer systems and networks.
+- Introduction to Programming.
+- Data Structures and Algorithms.
+- Object-Oriented Programming (OOP).
+- Database Management Systems.
+- Web Development.
+- Mobile Application Development.
+- Software Engineering.
+- Computer Networks.
+- Operating Systems.
+- Artificial Intelligence.
 
 ---
 
@@ -45,7 +44,7 @@ Here are some of the key courses I completed during my Bachelor's that laid the 
 ## 💻 Digital Skills
 
 - **Programming Languages**:  
-  - **JavaScript**, **TypeScript**, **C++**
+  - **JavaScript**, **TypeScript**, **C++** , **Python**
   
 - **Frameworks & Libraries**:  
   - **React.js** (with **Next.js**, **Redux**, **styled-components**), **Node.js**, **Flutter**
@@ -94,8 +93,7 @@ Here are some of the key courses I completed during my Bachelor's that laid the 
 
 You can reach me via:
 - **Email**: ahmedrajib942@gmail.com
-- **GitHub**: [GitHub Profile](https://github.com/rajibmiah)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rajib-miah)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mrrajibmiah/)
 
 ---
 
@@ -116,7 +114,7 @@ Currently working on the following:
 
 ## 📌 Fun Facts
 
-- I'm a proud **Muslim**.
+- Loading...
 
 ---
 
