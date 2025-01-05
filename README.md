@@ -1,65 +1,132 @@
-<h1 align="center">Hi 👋, I'm Rajib</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RajibMiah" alt="rajibmiah" /> </p>
+# Rajib Miah
 
-- 🌱 I’m currently working on ** React.js , Next.js , express.js , TypeScript and DBMS**
+Hi, I'm **Rajib Miah**, a passionate open source contibutor currently pursuing my Master's degree in **Artificial Intelligence** at **Brandenburg University of Technology** (BTU), Germany. I have a strong background in **Computer Science** and **Engineering**, having completed my Bachelor's degree in Bangladesh. I write code for inner pace.
 
-- 📫 How to reach me **ahmedrajib942@gmail.com**
+---
+
+## 🚀 About Me
+
+- **Name**: Rajib Miah
+- **Nationality**: Bangladeshi
+- **Current Location**: Cottbus, Germany
+- **Current Role**: Master's Student in **AI**
+- **Academic Background**:
+  - **Master's Degree** in **Artificial Intelligence** at **Brandenburg University of Technology (BTU)**, Germany (Starting Summer 2024)
+  - **Bachelor's Degree** in **Computer Science and Engineering** from **Metropolitan University Sylhet, Bangladesh**
+
+---
+
+## 🎓 Education
+
+- **Master's Program**:  
+   - Network and System Security  
+   - Image Processing and Computer Vision  
+   - Introduction to Neural Signal Analysis  
+   - Introduction to Computational Thinking and Programming for CFD  
+   
+- **Bachelor’s Program**:  
+Here are some of the key courses I completed during my Bachelor's that laid the foundation for my career in software development:
+
+- **Introduction to Programming**: Focused on basic programming concepts, algorithms, and problem-solving techniques.
+- **Data Structures and Algorithms**: Covered essential data structures and algorithms, foundational for efficient software development.
+- **Object-Oriented Programming (OOP)**: Learned the principles of OOP, including inheritance, polymorphism, and encapsulation using Java and C++.
+- **Database Management Systems**: Gained experience with relational databases, SQL, and database design.
+- **Web Development**: Covered both front-end and back-end web technologies like HTML, CSS, JavaScript, and frameworks like React.
+- **Mobile Application Development**: Focused on developing mobile apps using tools like Flutter.
+- **Software Engineering**: Taught software development life cycles (SDLC) and project management methodologies such as Agile.
+- **Computer Networks**: Covered networking principles and protocols like TCP/IP and security.
+- **Operating Systems**: Explored the inner workings of operating systems, memory management, and system processes.
+- **Artificial Intelligence**: Gained foundational knowledge in AI, including machine learning and neural networks.
+- **Cybersecurity**: Introduced to fundamental concepts in securing computer systems and networks.
+
+---
 
 
-<h2> Profile Links </h2>
-<a href="https://www.linkedin.com/in/rajib-miah-680021149/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
-<a href="https://www.facebook.com/profile.php?id=100011386352117" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" > </a>
-<a href="https://www.instagram.com/ahmed_rajib999/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+## 💻 Digital Skills
 
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" > </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" > </a>
+- **Programming Languages**:  
+  - **JavaScript**, **TypeScript**, **C++**
+  
+- **Frameworks & Libraries**:  
+  - **React.js** (with **Next.js**, **Redux**, **styled-components**), **Node.js**, **Flutter**
 
-<a href=""> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
-<a href="https://stackoverflow.com/users/9011280/rajib-ahmed" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" > </a>
+- **Database Management**:  
+  - Database design and management
 
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="" height="30" width="30" /></a> -->
-</p>
+- **Web Development**:  
+  - **HTML**, **CSS**, **Web API**
 
-<h2> Skills </h2>
+- **Game Development**:  
+  - **Unity GameEngine**
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</span>
+- **Version Control**:  
+  - **Git**, **GitHub**
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</span>
+- **Other Tools**:  
+  - **MS Office Tools**
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"> -->
-</span>
 
-<h4> Cloud </h4>
-<!-- <span>
-  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white">
-</span> -->
+---
 
-<h4> IDE </h4>
-<span>
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
-</span>
+## 🌍 Languages
 
-<h4> Operating System </h4>
-<span>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</span>
+- **English** (Fluent)
+- **Bangla** (Native)
+
+---
+
+## 💡 Research Interests
+
+- **AI** (NLP, Machine Learning, and Computer Vision)
+- **Cybersecurity** (Security systems and innovations)
+- **Embedded Systems** and **Low-Level Development**
+
+---
+
+## 🧳 Travel and Cultural Interests
+
+- Exploring the **German culture** and engaging with local and corporate communities in **Berlin** and **German**.
+- Interested in understanding the global environment for tech innovation and development.
+
+---
+
+## 💬 Let's Connect
+
+You can reach me via:
+- **Email**: ahmedrajib942@gmail.com
+- **GitHub**: [GitHub Profile](https://github.com/rajibmiah)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rajib-miah)
+
+---
+
+## 🌟 Notable Achievements
+
+- **Winner** of the regional **NASA Space App Challenge** hackathon in 2019.
+- Committed to contributing to **Bangladesh 2.0** for national progress and development.
+- Applying for AI-related roles in **Software Development** by 2026.
+  
+---
+
+## 📝 Ongoing Projects
+
+Currently working on the following:
+- **Open Course Contributor** at **Reality AI Lab**: Contributing to open-source AI research and course materials, helping to expand educational resources and practical applications in the field of AI.
+
+---
+
+## 📌 Fun Facts
+
+- I'm a proud **Muslim**.
+
+---
+
+## 🏅 Career Goals
+
+- To work for a company whose **values** align with mine, contributing to **meaningful** and **impactful** work in **AI** and **Cybersecurity**.
+- Pursue a **PhD** in the future in AI, focusing on **security** and **innovation**.
+
+---
+
+## 📍 Contact Info
+
+Feel free to contact me for any **collaboration**, **research**, or **work opportunities**.
